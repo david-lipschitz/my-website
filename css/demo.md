@@ -1,3 +1,0 @@
-# Demo File
-
-This is a test for a the content
